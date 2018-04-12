@@ -6,11 +6,11 @@ def liczenie():
     lista=[]
     while(True):
         x=input("Podaj liczbe lub q: ")
-        if x =="q":
+        if z =="q":
             print(lista)
             print(sum(lista))
             print(srednia(lista))
             break
         else:
-            lista.append(int(x))
+            lista.append(int(z))
 liczenie()
