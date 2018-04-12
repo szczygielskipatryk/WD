@@ -17,8 +17,6 @@ n=plik.readlines()
 k=n[0]
 i=n[1]
 l=n[2]
-k.replace("\n","")
-i.replace("\n","")
 prac1=k.split(",")
 prac2=i.split(",")
 prac3=l.split(",")
