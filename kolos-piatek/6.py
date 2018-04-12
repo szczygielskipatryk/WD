@@ -5,6 +5,7 @@ def ustawienie():
     l="\n"
     l=x.join(i)
     plik.write(k)
+    plik.close()
 
 
 ustawienie()
