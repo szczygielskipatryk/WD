@@ -1,3 +1,4 @@
+
 def tablica():
     lista1=[]
     lista2=[]
