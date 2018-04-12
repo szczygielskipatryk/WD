@@ -4,5 +4,4 @@ i=n[0]
 i.replace(",","")
 i.replace(".","")
 tablica = i.split(" ")
-print (tablica)
 print(len(tablica))
