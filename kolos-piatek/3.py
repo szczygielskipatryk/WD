@@ -1,4 +1,4 @@
 def litery():
-    x=input("Podaj zdanie: ")
-    print(x.title())
+    z=input("Podaj zdanie: ")
+    print(z.title())
 litery()
