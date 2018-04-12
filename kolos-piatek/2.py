@@ -5,3 +5,4 @@ i.replace(",","")
 i.replace(".","")
 tablica = i.split(" ")
 print(len(tablica))
+plik.close
